@@ -8,6 +8,7 @@ gem 'sqlite3'
 
 # Use Device
 gem 'devise'
+gem 'simple_form'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
